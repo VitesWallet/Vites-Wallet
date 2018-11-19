@@ -1,8 +1,9 @@
-# VITES Coin
-Vites Wallet 
-Important Links
-VITES Coin Specifications
 
+### VITES Coin 
+## Important Links
+## VITES Coin Specifications
+
+```
 Ticker: VITES
 PoS algorithm: Nist5
 Max supply: 50.000.000.000
